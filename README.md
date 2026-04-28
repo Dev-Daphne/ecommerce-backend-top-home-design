@@ -1,27 +1,39 @@
-# Top Home Design E-commerce
+# 🛒 E-commerce Backend - Top Home Design
 
-**Full-stack e-commerce (Mercado Livre style) for interior design company.**
+A backend application for an e-commerce platform inspired by real-world marketplaces like Mercado Livre, focused on interior design products.
 
-## Quick Start
-```
-cd top-home-design-ecommerce
-npm install & npm start
-```
-`localhost:3000`
+## 📌 Overview
 
-**Frontend:** Static HTML/JS (open index.html)
-**Backend:** Express + photo upload admin (`/admin.html`, pwd: admin123)
+This project simulates the core functionalities of an e-commerce system, including product management, shopping flow, and admin operations.
 
-## Features
-- Product catalog (20+ interior design items)
-- Search, filters, cart, checkout
-- Admin photo upload → live products
-- Responsive, PT-BR
+Built with a focus on backend development using Node.js and Express.
 
-**Tech:** HTML/CSS/JS + Node/Express/Multer/JSON
+---
 
-**Deploy:** GitHub Pages (frontend) / Railway (fullstack)
+## ⚙️ Features
 
-⭐ Live demo ready!
+- Product catalog (20+ items)
+- Search and filtering functionality
+- Shopping cart and checkout flow
+- Admin panel for product management
+- Image upload using Multer
+- RESTful API architecture
+- Responsive frontend integration (HTML/CSS/JS)
 
-Start New Task
+---
+
+## 🛠️ Tech Stack
+
+- **Backend:** Node.js, Express
+- **File Upload:** Multer
+- **Data Storage:** JSON (simulated database)
+- **Frontend:** HTML, CSS, JavaScript
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/seuusuario/ecommerce-backend-top-home-design.git
