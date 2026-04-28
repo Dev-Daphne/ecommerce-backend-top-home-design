@@ -36,4 +36,4 @@ Built with a focus on backend development using Node.js and Express.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/seuusuario/ecommerce-backend-top-home-design.git
+git clone https://github.com/Dev-Daphne/ecommerce-backend-top-home-design.git
