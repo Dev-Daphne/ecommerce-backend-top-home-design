@@ -39,25 +39,3 @@ Built with a focus on backend development using Node.js and Express.
 
 ```bash
 git clone https://github.com/Dev-Daphne/ecommerce-backend-top-home-design.git
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Dev-Daphne/ecommerce-backend-top-home-design.git
-npm install
-npm start
-http://localhost:3000
-
----
-
-## 🔐 Depois disso (logo abaixo)
-
-Você cria outra seção separada:
-
-```markdown
-## 🔐 Admin Access
-
-- URL: /admin.html
-- Username: admin
-- Password: admin123
