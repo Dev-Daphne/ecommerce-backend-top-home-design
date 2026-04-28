@@ -2,6 +2,8 @@
 
 A backend application for an e-commerce platform inspired by real-world marketplaces like Mercado Livre, focused on interior design products.
 
+---
+
 ## 📌 Overview
 
 This project simulates the core functionalities of an e-commerce system, including product management, shopping flow, and admin operations.
