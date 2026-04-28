@@ -39,4 +39,34 @@ Built with a focus on backend development using Node.js and Express.
 
 ```bash
 git clone https://github.com/Dev-Daphne/ecommerce-backend-top-home-design.git
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the application
+
+```bash
+npm start
+```
+
+Server will run on:
+
+```
+http://localhost:3000
+```
+
+---
+
+## 🔐 Admin Access
+
+- URL: /admin.html
+- Username: admin
+- Password: admin123
+## 🌐 Project Purpose
+
+This project was developed to simulate a real-world e-commerce backend, focusing on API design, product management, and backend architecture.
 
